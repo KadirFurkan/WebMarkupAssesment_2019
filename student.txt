@@ -1,0 +1,4 @@
+Student name = Furkan Kaya
+Student number = 655234
+student class = HAINFVT1SC
+Github URL = https://github.com/KadirFurkan/WebMarkupAssesment_2019
