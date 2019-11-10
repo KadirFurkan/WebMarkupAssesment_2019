@@ -23,3 +23,60 @@
 {
 	width: 30%;
 }
+
+#fontsize1
+{
+	font-size: 16px;
+}
+
+#fontsize2
+{
+	font-size: 25px;
+}
+
+#fontsize3
+{
+	font-size: 40px;
+}
+
+#color1
+{
+	color: #000000;
+}
+
+#color2
+{
+	color: #444444;
+}
+
+#color3
+{
+	color: #707070
+}
+
+#color4
+{
+	color: #AAAAAA;
+}
+
+#color5
+{
+	color: #F5F5F5;
+}
+
+#color6
+{
+	color: #FFFFFF;
+}
+
+#color7
+{
+	color: #2699FB;
+}
+
+html
+{
+	font-family: Arial, Tahoma, Sans-Serif
+	
+}
+

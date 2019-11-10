@@ -1,0 +1,4 @@
+User-agent:*
+Disallow: /forbidden
+
+SITEMAP:http://taekwon.eu/655234/sitemap.txt
